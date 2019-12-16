@@ -38,7 +38,7 @@ GEM
       execjs
     coffee-script-source (1.8.0)
     erubis (2.7.0)
-    excon (0.39.5)
+    excon (0.71.0)
     execjs (2.2.1)
     fog (1.22.1)
       fog-brightbox
